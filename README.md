@@ -78,7 +78,7 @@ The detailed information regarding instructions are in the attached [MIPS_Green_
 
   \- store n 32-bit quantities in successive memory words
 
-​		<img src="/Users/hanseunghun/Google 드라이브/2020-1/컴구 (1)/sce212-project1-master/README_Image/Memory_Allocation.png" alt="Memory_Allocation" style="zoom:50%;" />
+​		<img src="./README_Image/Memory_Allocation.png" alt="Memory_Allocation" style="zoom:50%;" />
 
 ### 	3-2) Running Test
 
@@ -125,7 +125,7 @@ The output of the assembler is an object file. We use a simplified custom format
 
 ​	The following must be the final binary format:
 
-<img src="/Users/hanseunghun/Google 드라이브/2020-1/컴구 (1)/sce212-project1-master/README_Image/Output_format.png" alt="Output_format" style="zoom:50%;" />
+<img src="./README_Image/Output_format.png" alt="Output_format" style="zoom:50%;" />
 
 
 
